@@ -12,6 +12,7 @@ RUN apt update \
         locales \
         cups \
         cups-filters \
+        mupdf-tools \
         avahi-daemon \
         libnss-mdns \
         dbus \
